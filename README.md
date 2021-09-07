@@ -16,3 +16,6 @@
     - React
     - SQL
     - Git
+
+### Padronização de commit's:
+    - https://github.com/kevinnchristian/padrao-de-git-commit
