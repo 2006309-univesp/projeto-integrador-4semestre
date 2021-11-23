@@ -13,9 +13,13 @@
     - SERGIO EDUARDO DA SILVA
 
 ### Tecnologias:
-    - React
-    - SQL
-    - Git
+    - React Native
+  
+### Comandos:
+    - 1º cd mobile
+    - 2º cd eagen
+    - 3º npm install ou yarn install
+    - 4º npm android ou yarn android
 
 ### Padronização de commit's:
     - https://github.com/kevinnchristian/padrao-de-git-commit
